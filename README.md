@@ -4,3 +4,5 @@ This repository contains the PyTorch implementation of the ICCV'17 Paper,"Deep G
 - Data was fetched from the original source code github repo https://github.com/sainandan-ramakrishnan/Deep-Generative-Filter-for-motion-deblurring 
 - Preprocessing functions used from https://github.com/leftthomas/ImageDeblurring
 - Used Google Colab for Testing the impelentation
+
+Achieved Average PNSR of 24.3857 dB over Test data 
