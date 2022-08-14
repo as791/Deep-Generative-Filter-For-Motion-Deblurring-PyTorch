@@ -5,4 +5,4 @@ This repository contains the PyTorch implementation of the ICCV'17 Paper,"Deep G
 - Preprocessing functions/data utils modified from https://github.com/leftthomas/ImageDeblurring
 - Used Google Colab for Testing the implementation
 
-Achieved Average PNSR of 24.3857 dB over Test data 
+Achieved Average PSNR of 24.3857 dB over Test data 
